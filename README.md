@@ -1,7 +1,7 @@
 # Gerenciador de Hábitos
 Gerenciador de Hábitos full-stack feito com React, TypeScript, Tailwind, Prisma e Fastify. Projeto desenvolvido durante o NLW Setup da RocketSeat
 
-![cover](public/images/home.png)
+![cover](client/public/images/home.png)
 
 ## ✨ Tecnologias
 ### Front-end
