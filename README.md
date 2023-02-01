@@ -9,9 +9,6 @@ Gerenciador de Hábitos full-stack feito com React, TypeScript, Tailwind, Prisma
 ### Back-end
 - TypeScript | Fastify | Prisma | zod | dayjs |
 
-## Back-end
-Encontre o back-end da aplicação na branch [back-end](https://github.com/ViGF/habits/tree/back-end)
-
 ## 🔖 Layout
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/PE52hpsQfYdC33xNR68ugN/Habits-(i)-(Community)?node-id=6%3A343&t=YN4cRYAhXe8Ka7u6-1).
 
