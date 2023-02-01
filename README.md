@@ -17,10 +17,8 @@ Em seu terminal:
 ```bash
 # Clone o repositório
 git clone https://github.com/ViGF/habits.git
-# Acesse a pasta do projeto
-cd habits
-# Depos, acesse a pasta do back-end do projeto
-cd server
+# Acesse a pasta back-end do projeto
+cd habits/server
 # Instale as dependências
 npm i
 # Execute a aplicação
@@ -28,7 +26,7 @@ npm run dev
 ```
 ```bash
 # Em outra janela do seu terminal acesse a pasta do front-end do projeto
-cd ../web
+cd ../client
 # Instale as dependências
 npm i
 # Execute a aplicação
